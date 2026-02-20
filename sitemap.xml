@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Blog Listing -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/blog.html</loc>
+        <lastmod>2026-02-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Article: Tips Sukses Family Gathering -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/tips-sukses-family-gathering.html</loc>
+        <lastmod>2026-02-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Article: Wisata Batu Malang untuk Gathering -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/wisata-batu-malang-untuk-gathering.html</loc>
+        <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Article: Fasilitas Lengkap Family Gathering -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/fasilitas-lengkap-family-gathering.html</loc>
+        <lastmod>2026-02-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Article: Aktivitas Outbound Family Gathering -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/aktivitas-outbound-family-gathering.html</loc>
+        <lastmod>2026-02-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Article: Paket Hemat Family Gathering -->
+    <url>
+        <loc>https://familygatheringbatumalang.com/paket-hemat-family-gathering.html</loc>
+        <lastmod>2026-02-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
